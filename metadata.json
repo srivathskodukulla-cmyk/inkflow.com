@@ -1,0 +1,6 @@
+{
+  "name": "Inkflow - inkflow.com Publishing Platform",
+  "description": "Inkflow (inkflow.com) is a modern publishing platform for writers featuring markdown composition, deep audience analytics, and premium content distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
